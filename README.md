@@ -35,5 +35,4 @@ Built for reverse engineering practice, Windows internals study, and defensive r
 
 ```bash
 ProcessHollower.exe notepad.exe demo.exe
-<img width="1024" height="1024" alt="qwdqwdqd" src="https://github.com/user-attachments/assets/0d7807a0-08bc-46c1-97bd-b71904d9c58b" />
 
